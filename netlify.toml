@@ -1,4 +1,0 @@
-[[redirects]]
-from = "/*"
-to = "templates/register.html"
-status = 200
